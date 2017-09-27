@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\workspace\\LanceApp\\lancelibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_head.xml",
+        "source": "D:\\workspace\\LanceApp\\lancelibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_head.xml"
+    },
+    {
+        "merged": "D:\\workspace\\LanceApp\\lancelibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\listview_footer.xml",
+        "source": "D:\\workspace\\LanceApp\\lancelibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\listview_footer.xml"
+    },
+    {
+        "merged": "D:\\workspace\\LanceApp\\lancelibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\listview_header.xml",
+        "source": "D:\\workspace\\LanceApp\\lancelibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\listview_header.xml"
+    }
+]

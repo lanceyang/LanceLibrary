@@ -1,0 +1,178 @@
+[
+    {
+        "outputFile": "D:\\workspace\\LanceApp\\lancelibrary\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1693,
+                    "endColumn": 48,
+                    "endOffset": 1737
+                },
+                "from": {
+                    "file": "D:\\workspace\\LanceApp\\lancelibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1693,
+                        "endColumn": 48,
+                        "endOffset": 1737
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1742,
+                    "endColumn": 71,
+                    "endOffset": 1809
+                },
+                "from": {
+                    "file": "D:\\workspace\\LanceApp\\lancelibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1742,
+                        "endColumn": 71,
+                        "endOffset": 1809
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1814,
+                    "endColumn": 81,
+                    "endOffset": 1891
+                },
+                "from": {
+                    "file": "D:\\workspace\\LanceApp\\lancelibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1814,
+                        "endColumn": 81,
+                        "endOffset": 1891
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1896,
+                    "endColumn": 66,
+                    "endOffset": 1958
+                },
+                "from": {
+                    "file": "D:\\workspace\\LanceApp\\lancelibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1896,
+                        "endColumn": 66,
+                        "endOffset": 1958
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1963,
+                    "endColumn": 55,
+                    "endOffset": 2014
+                },
+                "from": {
+                    "file": "D:\\workspace\\LanceApp\\lancelibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1963,
+                        "endColumn": 55,
+                        "endOffset": 2014
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2019,
+                    "endColumn": 53,
+                    "endOffset": 2068
+                },
+                "from": {
+                    "file": "D:\\workspace\\LanceApp\\lancelibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2019,
+                        "endColumn": 53,
+                        "endOffset": 2068
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2073,
+                    "endColumn": 63,
+                    "endOffset": 2132
+                },
+                "from": {
+                    "file": "D:\\workspace\\LanceApp\\lancelibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2073,
+                        "endColumn": 63,
+                        "endOffset": 2132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2137,
+                    "endColumn": 53,
+                    "endOffset": 2186
+                },
+                "from": {
+                    "file": "D:\\workspace\\LanceApp\\lancelibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2137,
+                        "endColumn": 53,
+                        "endOffset": 2186
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2191,
+                    "endColumn": 52,
+                    "endOffset": 2239
+                },
+                "from": {
+                    "file": "D:\\workspace\\LanceApp\\lancelibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2191,
+                        "endColumn": 52,
+                        "endOffset": 2239
+                    }
+                }
+            }
+        ]
+    }
+]
